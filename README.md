@@ -1,4 +1,4 @@
-# Iosevka Fixed SS11 WebFont 18.0.0
+# Iosevka Fixed SS11 WebFont 19.0.0
 
 ## How to use
 
